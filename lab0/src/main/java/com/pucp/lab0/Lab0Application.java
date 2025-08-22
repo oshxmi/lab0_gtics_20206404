@@ -11,6 +11,8 @@ public class Lab0Application {
         System.out.println("Actualizar en el main");
         System.out.println("----------------------");
         System.out.println("Para hacer el merge con la rama main");
+        System.out.println("----------------------");
+        System.out.println("Para hacer el 2do merge con la rama main");
 	}
 
 }
